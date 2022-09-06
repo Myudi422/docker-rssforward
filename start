@@ -20,4 +20,4 @@ pip3 install -U pip
 git clone https://github.com/Myudi422/Telegram_Forwarder ccgnimex
 cd ccgnimex
 _externals
-python -m forwarder
+python3 -m forwarder
