@@ -17,7 +17,7 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/Myudi422/Telegram_Forwarder rss
-cd rss
+git clone https://github.com/EverythingSuckz/TG-FileStreamBot index
+cd index
 _externals
-python3 -m forwarder
+python3 -m WebStreamer
