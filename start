@@ -17,8 +17,8 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/Myudi422/anibot-ccgnimex anibot
+git clone https://github.com/Myudi422/indexx anibot
 cd anibot
 pip3 install -U -r requirements.txt
 _externals
-python3 -m anibot
+python3 -m WebStreamer
